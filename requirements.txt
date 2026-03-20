@@ -1,3 +1,4 @@
 streamlit
 streamlit-lottie
 requests
+yt-dlp
