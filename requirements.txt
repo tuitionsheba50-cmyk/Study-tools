@@ -1,5 +1,6 @@
 streamlit
 streamlit-lottie
+streamlit-option-menu
 requests
 yt-dlp
 google-generativeai
