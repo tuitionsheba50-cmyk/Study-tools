@@ -2,3 +2,6 @@ streamlit
 streamlit-lottie
 requests
 yt-dlp
+google-generativeai
+youtube-transcript-api
+pandas
